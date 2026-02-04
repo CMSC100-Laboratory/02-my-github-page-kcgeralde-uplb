@@ -1,6 +1,6 @@
-NAME: Keith C. Geralde
-DEGREE PROGRAM: BS Statistics
-LIVE WEBSITE LINK: https://github.com/CMSC100-Laboratory/02-my-github-page-kcgeralde-uplb/blob/main/index.html
+NAME: Keith C. Geralde  
+DEGREE PROGRAM: BS Statistics  
+LIVE WEBSITE LINK: https://cmsc100-laboratory.github.io/02-my-github-page-kcgeralde-uplb/    
 
 STEPS ON HOW TO CREATE GITHUB PAGE (DRAFT)
 1. Open Github and sign in
